@@ -1,5 +1,7 @@
 SNAKE Game
 ==========
+This small project was inspired by [Bro Code's](https://www.youtube.com/c/BroCodez) video about [Java snake game](https://www.youtube.com/watch?v=bI6e6qjJ8JQ)
+
 About
 -----
 Start menu
